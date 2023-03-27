@@ -41,7 +41,7 @@ header {
 header .mylogo {
   width: 76px;
   height: 20px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -76,7 +76,7 @@ header .mylogo {
 .texttype {
   width: 55px;
   height: 16px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -90,7 +90,7 @@ header .mylogo {
 .texttype2 {
   width: 90px;
   height: 16px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -135,7 +135,7 @@ header .mylogo {
 .text {
   width: 327px;
   height: 146px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -149,7 +149,7 @@ header .mylogo {
 .title {
   margin-bottom: 15px;
   width: 327px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -165,7 +165,7 @@ header .mylogo {
 .title2 {
   margin: 0%;
   width: 327px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -184,7 +184,7 @@ header .mylogo {
   padding-bottom: 0%;
   margin: 0%;
   width: 327px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -200,7 +200,7 @@ header .mylogo {
 .text1 {
   width: 327px;
   margin: 0%;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -214,7 +214,7 @@ header .mylogo {
 .socialtitle {
   margin-top: 10px;
   width: 327px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -276,6 +276,8 @@ header .mylogo {
   flex-direction: column;
   justify-content: flex-start;
   order: 3;
+  float: left;
+  margin-left: -40px;
 }
 
 .wbtn1 {
@@ -301,7 +303,7 @@ header .mylogo {
   height: 24px;
   background: #ebebff;
   border-radius: 8px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
@@ -311,6 +313,7 @@ header .mylogo {
   flex: none;
   order: 0;
   flex-grow: 0;
+  text-align: left;
 }
 
 .btn {
@@ -323,7 +326,7 @@ header .mylogo {
   align-items: center;
   padding: 12px;
   gap: 12px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -346,7 +349,7 @@ header .mylogo {
   align-items: center;
   padding: 12px;
   gap: 12px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -393,7 +396,7 @@ button:hover {
   align-items: center;
   padding: 12px;
   gap: 12px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -421,7 +424,7 @@ button:hover {
   align-items: center;
   padding: 12px;
   gap: 12px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
